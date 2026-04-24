@@ -1,0 +1,15 @@
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\bin\Debug\net10.0\exFixacao.exe
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\bin\Debug\net10.0\exFixacao.deps.json
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\bin\Debug\net10.0\exFixacao.runtimeconfig.json
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\bin\Debug\net10.0\exFixacao.dll
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\bin\Debug\net10.0\exFixacao.pdb
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.AssemblyInfoInputs.cache
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.AssemblyInfo.cs
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.csproj.CoreCompileInputs.cache
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.sourcelink.json
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.dll
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\refint\exFixacao.dll
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.pdb
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\exFixacao.genruntimeconfig.cache
+C:\Users\enzoy\Downloads\Estudos\C#\Exercicios\ExerciciosEstudoCSharp\ConstrutoresEncapsulamento\exFixacao\exFixacao\obj\Debug\net10.0\ref\exFixacao.dll

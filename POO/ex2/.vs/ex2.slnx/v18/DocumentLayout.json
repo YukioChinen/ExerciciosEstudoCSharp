@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\enzoy\\Downloads\\Estudos\\C#\\Exercicios\\ExerciciosEstudoCSharp\\POO\\ex2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{074CD1E9-9243-4199-A4C8-0BA09D4929EA}|ex2\\ex2.csproj|c:\\users\\enzoy\\downloads\\estudos\\c#\\exercicios\\exerciciosestudocsharp\\poo\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074CD1E9-9243-4199-A4C8-0BA09D4929EA}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876A2748-6995-6E93-8E13-5FBBCF713BE5}|ex2\\ex2.csproj|c:\\users\\enzoy\\downloads\\estudos\\c#\\exercicios\\exerciciosestudocsharp\\poo\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A2748-6995-6E93-8E13-5FBBCF713BE5}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{074CD1E9-9243-4199-A4C8-0BA09D4929EA}|ex2\\ex2.csproj|c:\\users\\enzoy\\downloads\\estudos\\c#\\exercicios\\exerciciosestudocsharp\\poo\\ex2\\ex2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074CD1E9-9243-4199-A4C8-0BA09D4929EA}|ex2\\ex2.csproj|solutionrelative:ex2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876A2748-6995-6E93-8E13-5FBBCF713BE5}|ex2\\ex2.csproj|c:\\users\\enzoy\\downloads\\estudos\\c#\\exercicios\\exerciciosestudocsharp\\poo\\ex2\\ex2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876A2748-6995-6E93-8E13-5FBBCF713BE5}|ex2\\ex2.csproj|solutionrelative:ex2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "ex2\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T20:47:17.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T20:47:17.988Z"
             },
             {
               "$type": "Document",
